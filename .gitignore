@@ -1,0 +1,18 @@
+# === Spring Boot ===
+/backend/target/
+/backend/.idea/
+/backend/.classpath
+/backend/.project
+/backend/.settings/
+/backend/.mvn/wrapper/maven-wrapper.jar
+
+# === React ===
+/frontend/node_modules/
+/frontend/.env
+
+# === OS files ===
+.DS_Store
+Thumbs.db
+
+# === Logs ===
+*.log
