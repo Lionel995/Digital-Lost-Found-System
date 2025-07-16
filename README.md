@@ -31,8 +31,8 @@ A full-stack web application designed to help users report, track, and claim los
 
 - **Backend:** Spring Boot, Java, JPA/Hibernate, REST API  
 - **Frontend:** React.js, Vite, JSX, Tailwind CSS  
-- **Database:** PostgreSQL / MySQL (or specify your DB)  
-- **Other:** JWT for authentication, Maven/Gradle, Git, GitHub  
+- **Database:** PostgreSQL  
+- **Other:** JWT for authentication, Maven, GitHub  
 
 ---
 
